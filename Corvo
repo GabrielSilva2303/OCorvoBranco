@@ -766,8 +766,8 @@
       </div>
       
       <div class="content-box fade-in delay-1">
-        <p>Uma guerra contra a mediocridade, contra a fraqueza, contra a covardia que infectou a masculinidade moderna. Você está pronto para lutar?</p>
-        <p>O <span class="highlight">Corvo Branco</span> não é um conjunto de frases motivacionais. <strong>É um manual de sobrevivência para homens que se recusam a ser comuns.</strong></p>
+        <p>Uma guerra contra a mediocridade, contra a fraqueza, contra a covardia que infectou a sociedade e a masculinidade moderna. Você está pronto para lutar?</p>
+        <p>O <span class="highlight">Corvo Branco</span> não é um conjunto de frases motivacionais, e nem um massageador de ego. <strong>É um manual de sobrevivência para homens que se recusam a ser comuns.</strong></p>
       </div>
     </div>
   </section>
@@ -822,7 +822,7 @@
           <p>Seja o homem que sua família precisa, não o peso que elas carregam.</p>
         </div>
         
-        <div clasMENcontent-box fade-in delay-1">
+        <div clas="content-box fade-in delay-1">
           <h3>A MENTE DA GUERRA</h3>
           <p>A vida é um campo de batalha. Antecipe crises, domine conflitos e nunca seja pego desprevenido.</p>
         </div>
@@ -849,7 +849,7 @@
           <li><strong>CAPÍTULO VII</strong> – CORVO BRANCO: FUGINDO DA EXTINÇÃO.</li>
           <li><strong>CAPÍTULO VIII</strong> – A MENTE DA GUERRA.</li>
           <li><strong>CAPÍTULO IX</strong> – FORÇA BRUTA E SILÊNCIO: O CÓDIGO DO CORVO BRANCO.</li>
-          <li><strong>CAPÍTULO X</strong> – O IMIMIGO INVISÍVEL: A ENGENHARIA DA DECADÊNCIA.</li>
+          <li><strong>CAPÍTULO X</strong> – O INIMIGO INVISÍVEL: A ENGENHARIA DA DECADÊNCIA.</li>
           <li><strong>CAPÍTULO XI</strong> – A RESSURREIÇÃO DO ARQUÉTIPO.</li>
           <li><strong>CAPÍTULO XII</strong> – O MANIFESTO DO CORVO BRANCO.</li>
         </ul>
@@ -983,7 +983,7 @@
   <!-- Final CTA -->
   <section class="section-accent">
     <div class="container text-center fade-in">
-      <h2 class="mb-3">ESTE NÃO É UM EBOOK QUALQUER. <span style="display: block;">É UM DIVISOR DE ÁGUAS PARA A SUA VIDA.</span></h2>
+      <h2 class="mb-3">ESTE NÃO É UM EBOOK QUALQUER. <span style="display: block;">É UM RENASCIMENTO PARA A SUA MASCULINIDADE.</span></h2>
       <p class="mb-4">O mundo precisa de Homens fortes. Sua família precisa de você. O momento de agir é agora. Ou você age hoje, ou amanhã será tarde demais.</p>
       <a href="https://hotmart.com/..." class="btn btn-pulse">ADQUIRA O CORVO BRANCO AGORA – 20 R$</a>
     </div>
@@ -1001,36 +1001,190 @@
     </div>
   </section>
 
-  <!-- Footer -->
-<footer>
-  <div class="container">
+     <!-- footer -->
     <div class="footer-links">
-      <a href="#" onclick="mostrarSecao('termos')">Termos de Uso</a>
-      <a href="#" onclick="mostrarSecao('privacidade')">Política de Privacidade</a>
-      <a href="#" onclick="mostrarSecao('contato')">Contato</a>
-    </div>
-  </div>
-</footer>
+  <a href="#" onclick="mostrarSecao('termos', event)">Termos de Uso</a> <!-- Adicione ", event" -->
+  <a href="#" onclick="mostrarSecao('privacidade', event)">Política de Privacidade</a>
+  <a href="#" onclick="mostrarSecao('contato', event)">Contato</a>
+</div>
 
 <!-- Seções ocultas -->
 <div id="termos" class="secao" style="display: none; padding: 20px;">
-  <h2>Termos de Uso</h2>
-  <p>Aqui estão os seus Termos de Uso. Adicione o conteúdo completo conforme necessário.</p>
+  <h2>TERMOS DE USO DO CORVO BRANCO</h2>
+  
+  <div class="warning-box">
+    <p><i class="fas fa-robot"></i> <strong>TRANSPARÊNCIA:</strong> Este ebook foi gerado integralmente por inteligência artificial (IA), revisado, corrigido e aprimorado pela equipe Corvo Branco. Leia atentamente as cláusulas abaixo.</p>
+  </div>
+
+  <div class="content-box">
+    <h3>I. NATUREZA DO CONTEÚDO</h3>
+    <p>I.1. O conteúdo deste ebook foi <strong>gerado automaticamente por IA</strong>, sem curadoria, edição ou contribuição criativa humana.<br>
+    I.2. Por não ser uma obra com 100% de autoria humana, <strong>não há direitos autorais aplicáveis</strong> ao material, conforme a Lei 9.610/98.<br>
+    I.3. Você está ciente de que partes do texto podem coincidir com conteúdos existentes, já que a IA opera com base em dados públicos.</p>
+  </div>
+
+  <div class="content-box">
+    <h3>II. LICENÇA DE USO</h3>
+    <p>II.1. Você tem permissão para:<br>
+    - Acessar o conteúdo para uso pessoal;<br>
+    - Compartilhar, copiar ou adaptar o material, desde que cite a fonte ("Corvo Branco") e não utilize para fins comerciais ou ilegais.<br>
+    II.2. É proibido:<br>
+    - Revender o conteúdo como se fosse de sua autoria;<br>
+    - Utilizar o material para difundir discurso de ódio, violência ou atividades criminosas.</p>
+  </div>
+
+  <div class="content-box">
+    <h3>III. PAGAMENTO E REEMBOLSO</h3>
+    <p>III.1. Valor: R$20,00 (vinte reais) à vista, pelo acesso ao arquivo digital.<br>
+    III.2. Oferecemos garantia de 7 dias para reembolso, caso você não esteja satisfeito com o conteúdo.<br>
+    III.3. O reembolso não se aplica a:<br>
+    - Desistências por discordância ideológica;<br>
+    - Uso indevido ou compartilhamento não autorizado.</p>
+  </div>
+
+  <div class="content-box">
+    <h3>IV. RESPONSABILIDADES DO USUÁRIO</h3>
+    <p>IV.1. Você concorda que:<br>
+    - O conteúdo é destinado a <strong>maiores de 18 anos</strong>;<br>
+    - Assume total responsabilidade por como utiliza as informações;<br>
+    - Não atribuirá autoria humana ao material.<br>
+    IV.2. O Corvo Branco não se responsabiliza por:<br>
+    - Danos morais, financeiros ou físicos decorrentes do uso do conteúdo;<br>
+    - Precisão factual ou adequação do material à sua realidade.</p>
+  </div>
+
+  <div class="content-box">
+    <h3>V. LIMITAÇÃO DE GARANTIAS</h3>
+    <p>V.1. O conteúdo é fornecido <strong>"COMO ESTÁ"</strong>, sem garantias de:<br>
+    - Originalidade ou exclusividade;<br>
+    - Eficácia dos métodos sugeridos;<br>
+</p>
+  </div>
+
+  <div class="content-box">
+    <h3>VI. CONDUTA ÉTICA</h3>
+    <p>VI.1. Ao utilizar este material, você se compromete a:<br>
+    - Não distorcer ou editar o conteúdo para manipular terceiros;<br>
+    - Respeitar a integridade da obra, mesmo sabendo que foi gerada por IA;<br>
+    - Reportar falhas ou inconsistências para: <strong>corvobranco@resistencia.com</strong>.</p>
+  </div>
+
+  <div class="content-box">
+    <h3>VII. JURISDIÇÃO</h3>
+    <p>Questões não resolvidas amigavelmente serão resolvidas no Foro da Comarca de [Ceará - Fortaleza], Brasil.</p>
+  </div>
+
+  <div class="warning-box mt-4">
+    <p><i class="fas fa-exclamation-triangle"></i> <strong>AVISO FINAL:</strong> Este não é um produto artístico ou literário, mas funcional. Homens de verdade honram acordos, mesmo sem ameaças legais.</p>
+  </div>
 </div>
 
 <div id="privacidade" class="secao" style="display: none; padding: 20px;">
-  <h2>Política de Privacidade</h2>
-  <p>Aqui está sua Política de Privacidade. Insira os dados de privacidade do seu site.</p>
+  <h2>POLÍTICA DE PRIVACIDADE DO CORVO BRANCO</h2>
+  
+  <div class="warning-box">
+    <p><i class="fas fa-shield-alt"></i> <strong>TRANSPARÊNCIA:</strong> Não coletamos dados sensíveis. As compras são processadas por plataformas externas seguras (Hotmart/Kiwifi).</p>
+  </div>
+
+  <div class="content-box">
+    <h3>I. DADOS QUE NÃO COLETAMOS</h3>
+    <p>I.1. <strong>Nunca armazenamos:</strong><br>
+    - Dados de cartão de crédito ou transações financeiras<br>
+    - Senhas ou informações bancárias<br>
+    - Documentos pessoais (CPF, RG, CNH)</p>
+  </div>
+
+  <div class="content-box">
+    <h3>II. PLATAFORMAS DE PAGAMENTO</h3>
+    <p>II.1. Todo processo de compra é feito diretamente na:<br>
+    - <strong>Hotmart</strong> (<a href="https://www.hotmart.com" target="_blank">hotmart.com</a>)<br>
+    - <strong>Kiwifi</strong> (<a href="https://www.kiwify.com.br" target="_blank">kiwify.com.br</a>)<br>
+    II.2. Essas plataformas possuem suas próprias políticas de privacidade e segurança, as quais recomendamos a leitura.</p>
+  </div>
+
+  <div class="content-box">
+    <h3>III. DADOS QUE PODEMOS TER</h3>
+    <p>III.1. <strong>Informações básicas:</strong><br>
+    - E-mail (se você nos contactar diretamente)<br>
+    - Nome (opcional, em caso de suporte)<br>
+    III.2. Não compartilhamos esses dados com terceiros.</p>
+  </div>
+
+  <div class="content-box">
+    <h3>IV. SEGURANÇA</h3>
+    <p>IV.1. Adotamos medidas técnicas para:<br>
+    - Proteger contra acesso não autorizado<br>
+    - Garantir integridade das informações<br>
+    IV.2. Apesar disso, nenhum sistema online é 100% invulnerável.</p>
+  </div>
+
+  <div class="content-box">
+    <h3>V. DIREITOS DO USUÁRIO</h3>
+    <p>Você pode:<br>
+    - Solicitar exclusão de dados de contato<br>
+    - Revogar consentimentos<br>
+    - Acessar informações que possuímos<br>
+    <strong>Como:</strong> Envie e-mail para <span class="highlight">corvobranco@resistencia.com</span></p>
+  </div>
+
+  <div class="content-box">
+    <h3>VI. ATUALIZAÇÕES</h3>
+    <p>Esta política pode ser alterada. Alterações serão publicadas nesta página.</p>
+  </div>
+
+  <div class="warning-box mt-4">
+    <p><i class="fas fa-exclamation-triangle"></i> <strong>NÃO VENDEMOS DADOS:</strong> Não praticamos comércio de informações. Homens de verdade não traficam confiança.</p>
+  </div>
 </div>
 
 <div id="contato" class="secao" style="display: none; padding: 20px;">
-  <h2>Contato</h2>
-  <p>Coloque aqui seu e-mail, telefone ou um formulário de contato.</p>
+  <h2>CANAIS DE CONTATO</h2>
+  
+  <div class="section-title">
+    <h3>FALE CONOSCO DIRETAMENTE PELAS REDES</h3>
+  </div>
+
+  <div class="content-box">
+    <h3><i class="fas fa-envelope"></i> E-MAIL OFICIAL</h3>
+    <p>Para assuntos urgentes ou suporte técnico:</p>
+    <a href="mailto:corvobranco@resistencia.com" class="highlight">corvobranco@resistencia.com</a>
+    <p class="mt-2"><small>Resposta em até 48h úteis</small></p>
+  </div>
+
+  <div class="content-box">
+    <h3><i class="fab fa-instagram"></i> INSTAGRAM</h3>
+    <p>Conteúdo diário e atualizações<p>
+    <a href="https://www.instagram.com/ocorvo.branco?igsh=MXkxbGJiOTdwN3ZhaA==" target="_blank" class="btn btn-outline">
+      <i class="fab fa-instagram"></i> @corvo.branco
+    </a>
+  </div>
+
+  <div class="content-box">
+    <h3><i class="fab fa-tiktok"></i> TIKTOK</h3>
+    <p>Conteúdo sobre mentalidade e maturidade, venha crescer conosco:</p>
+    <a href="https://www.tiktok.com/@ocorvobranco?_t=ZM-8w6UlveFYT1&_r=1" target="_blank" class="btn btn-outline">
+      <i class="fab fa-tiktok"></i> @ocorvobranco
+    </a>
+  </div>
+
+  <div class="content-box">
+    <h3><i class="fab fa-youtube"></i> YOUTUBE</h3>
+    <p>Conteúdo sobre mentalidade e maturidade, venha crescer conosco:</p>
+    <a href="https://www.youtube.com/@ocorvo.branco" target="_blank" class="btn btn-outline">
+      <i class="fab fa-youtube" @ocorvo.branco
+    </a>
+  </div>
+
+  <div class="warning-box mt-4">
+    <p><i class="fas fa-radiation"></i> <strong>NÃO USAMOS OUTROS CANAIS:</strong> Desconfie de perfis falsos.</p>
+  </div>
 </div>
 
 <!-- Script para exibir seções -->
 <script>
-function mostrarSecao(secaoId) {
+function mostrarSecao(secaoId, event) {
+  event.preventDefault(); // Impede o comportamento padrão do link
+  
   // Oculta todas as seções
   document.querySelectorAll('.secao').forEach(secao => {
     secao.style.display = 'none';
@@ -1040,16 +1194,15 @@ function mostrarSecao(secaoId) {
   const secaoSelecionada = document.getElementById(secaoId);
   if (secaoSelecionada) {
     secaoSelecionada.style.display = 'block';
-    secaoSelecionada.scrollIntoView({ behavior: 'smooth' });
+    secaoSelecionada.scrollIntoView({ 
+      behavior: 'smooth',
+      block: 'start' // Alinha o topo da seção com a viewport
+    });
   }
 }
 </script>
-      
-      <p class="copyright">© 2025 Corvo Branco. Todos os direitos reservados.</p>
-    </div>
-  </footer>
 
-  <script>
+     <script>
     // Simple animation trigger
     document.addEventListener('DOMContentLoaded', function() {
       const fadeElements = document.querySelectorAll('.fade-in');
